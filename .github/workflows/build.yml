@@ -1,5 +1,5 @@
 
-name: Build APK
+name: MusicViz.zip
 on: [push, workflow_dispatch]
 
 jobs:
